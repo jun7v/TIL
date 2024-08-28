@@ -1,1 +1,3 @@
 # TIL
+* Tableau
+* SQL
